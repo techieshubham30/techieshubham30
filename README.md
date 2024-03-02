@@ -1,4 +1,5 @@
-[![MasterHead](https://promwad.com/sites/default/files/frontend_development_banner.jpg)](https://techieshubham) <h1 align="center">Hi 👋, I'm Shubham</h1>
+[![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)](https://techieshubham)
+ <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazU4ZTVrMjNzdTc1ejEyZ3Vtd284NWE0bnNjOGtsZHYxZzRpNWQ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
