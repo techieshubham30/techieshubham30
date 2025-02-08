@@ -9,7 +9,7 @@
   </div>
 </div>
 
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazU4ZTVrMjNzdTc1ejEyZ3Vtd284NWE0bnNjOGtsZHYxZzRpNWQ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🌱 I’m currently learning **Next.js**  
